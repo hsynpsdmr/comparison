@@ -1,0 +1,34 @@
+{
+  "online": false,
+  "lastOnline": { "_seconds": 1702560257, "_nanoseconds": 974000000 },
+  "lastOnlines": [
+    {
+      "start": { "_seconds": 1702552216, "_nanoseconds": 46000000 },
+      "duration": 39.8
+    },
+    {
+      "start": { "_seconds": 1702552397, "_nanoseconds": 809000000 },
+      "duration": 85.197
+    },
+    {
+      "start": { "_seconds": 1702552497, "_nanoseconds": 301000000 },
+      "duration": 30.9
+    },
+    {
+      "start": { "_seconds": 1702559282, "_nanoseconds": 527000000 },
+      "duration": 42.141
+    },
+    {
+      "start": { "_seconds": 1702559371, "_nanoseconds": 427000000 },
+      "duration": 173.823
+    },
+    {
+      "start": { "_seconds": 1702559606, "_nanoseconds": 525000000 },
+      "duration": 63.561
+    },
+    {
+      "start": { "_seconds": 1702560212, "_nanoseconds": 558000000 },
+      "duration": 45.416
+    }
+  ]
+}
